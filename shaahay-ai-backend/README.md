@@ -9,7 +9,7 @@ Mental health chatbot backend powered by Hugging Face's mental-health-bert model
 npm install
 ```
 
-2. Verify `.env` file contains:
+2. Verify `.env` file contains (do NOT commit your real token to source control):
 ```
 HF_API_KEY=REDACTED
 PORT=5000
