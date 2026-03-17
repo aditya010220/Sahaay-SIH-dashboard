@@ -78,7 +78,7 @@ National Health Integration: Exploring pathways for integration with India's Ayu
 
 Platform Expansion: Adapting the framework to support other vulnerable populations beyond higher education.
 
-Advanced AI: Continuously improving our AI models with the latest research to provide even more personalized support.
+Advanced AI: Continuously improving our AI models with the latest research to provide even more personalized support.      
 
 🤝 How to Contribute
 Contributions are the lifeblood of open source. We welcome any contributions that can make Sahaay a more effective and robust platform.
